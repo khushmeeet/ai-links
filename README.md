@@ -1,5 +1,5 @@
 # ai-links
-This is the list of link on Deep Learning that I have collected over time
+This is the list of links on Deep Learning that I have collected over time.
 
 ## Resources
 1. [An introduction to Generative Adversarial Networks (with code in TensorFlow) - AYLIEN News API](https://aylien.com/blog/introduction-generative-adversarial-networks-code-tensorflow)
