@@ -105,7 +105,8 @@ This is the list of links on Deep Learning that I have collected over time.
 7. [GitHub - AMAI-GmbH/AI-Expert-Roadmap: Roadmap to becoming an Artificial Intelligence Expert in 2022](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 8. [Deep Learning for Particle Physicists — Deep Learning for Particle Physicists](https://lewtun.github.io/dl4phys/intro.html)
 9. [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)
-10. ![Courses](./courses.png)
+10. [AMMI Geometric Deep Learning Course - Second Edition (2022) - YouTube](https://www.youtube.com/playlist?app=desktop&list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)
+11. ![Courses](./courses.png)
 
 ## MLOps
 1. [GitHub - dair-ai/MLOPs-Primer: A collection of resources to learn about MLOPs.](https://github.com/dair-ai/MLOPs-Primer)
