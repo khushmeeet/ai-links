@@ -83,6 +83,8 @@ This is the list of links on Deep Learning that I have collected over time.
 35. [GitHub - kenjihiranabe/The-Art-of-Linear-Algebra: Graphic notes on Gilbert Strang’s “Linear Algebra for Everyone”](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
 36. [GitHub - dair-ai/ML-Notebooks: A series of code examples for all sorts of machine learning tasks and applications.](https://github.com/dair-ai/ML-Notebooks)
 37. [GitHub - khuyentran1401/Data-science: Collection of useful data science topics along with code and articles](https://github.com/khuyentran1401/Data-science)
+38. [GitHub - Ying1123/awesome-neural-symbolic: A list of awesome neural symbolic papers.](https://github.com/Ying1123/awesome-neural-symbolic)
+39. [GitHub - CYHSM/awesome-neuro-ai-papers: Papers from the intersection of deep learning and neuroscience](https://github.com/CYHSM/awesome-neuro-ai-papers)
 
 ## Publications and Annotations
 1. [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
@@ -111,3 +113,7 @@ This is the list of links on Deep Learning that I have collected over time.
 
 ## MLOps
 1. [GitHub - dair-ai/MLOPs-Primer: A collection of resources to learn about MLOPs.](https://github.com/dair-ai/MLOPs-Primer)
+
+
+## Contribute
+To add links to this repository that you think are in any of the given category, please raise a PR or an issue will suffice as well.
