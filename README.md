@@ -85,6 +85,7 @@ This is the list of links on Deep Learning that I have collected over time.
 37. [GitHub - khuyentran1401/Data-science: Collection of useful data science topics along with code and articles](https://github.com/khuyentran1401/Data-science)
 38. [GitHub - Ying1123/awesome-neural-symbolic: A list of awesome neural symbolic papers.](https://github.com/Ying1123/awesome-neural-symbolic)
 39. [GitHub - CYHSM/awesome-neuro-ai-papers: Papers from the intersection of deep learning and neuroscience](https://github.com/CYHSM/awesome-neuro-ai-papers)
+40. [GitHub - hollance/neural-engine: Everything we actually know about the Apple Neural Engine (ANE)](https://github.com/hollance/neural-engine)
 
 ## Publications and Annotations
 1. [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
@@ -110,7 +111,8 @@ This is the list of links on Deep Learning that I have collected over time.
 8. [Deep Learning for Particle Physicists — Deep Learning for Particle Physicists](https://lewtun.github.io/dl4phys/intro.html)
 9. [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)
 10. [AMMI Geometric Deep Learning Course - Second Edition (2022) - YouTube](https://www.youtube.com/playlist?app=desktop&list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)
-11. ![Courses](./courses.png)
+11. [GitHub - microsoft/AI-For-Beginners: 12 Weeks, 24 Lessons, AI for All!](https://github.com/microsoft/AI-For-Beginners)
+12. ![Courses](./courses.png)
 
 ## MLOps
 1. [GitHub - dair-ai/MLOPs-Primer: A collection of resources to learn about MLOPs.](https://github.com/dair-ai/MLOPs-Primer)
