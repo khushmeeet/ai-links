@@ -97,6 +97,7 @@ This is the list of links on Deep Learning that I have collected over time.
 8. [You don’t know JAX](https://colinraffel.com/blog/you-don-t-know-jax.html)
 9. [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
 10. [Differentiable Programming from Scratch – Max Slater – Computer Graphics, Programming, and Math](https://thenumb.at/Autodiff/)
+11. [Logistic Regression](https://mlu-explain.github.io/logistic-regression/)
 
 ## Courses
 1. [Natural Language Processing (NLP) for Semantic Search | Pinecone](https://www.pinecone.io/learn/nlp/)
