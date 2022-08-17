@@ -115,6 +115,9 @@ This is the list of links on Deep Learning that I have collected over time.
 ## MLOps
 1. [GitHub - dair-ai/MLOPs-Primer: A collection of resources to learn about MLOPs.](https://github.com/dair-ai/MLOPs-Primer)
 
+## Industry Related
+1. [GitHub - andrewekhalel/MLQuestions: Machine Learning and Computer Vision Engineer - Technical Interview Questions](https://github.com/andrewekhalel/MLQuestions)
+
 
 ## Contribute
 To add links to this repository that you think are in any of the given category, please raise a PR or an issue will suffice as well.
