@@ -94,6 +94,7 @@ This is the list of links on Deep Learning that I have collected over time.
 
 1. [GitHub - slundberg/shap: A game theoretic approach to explain the output of any machine learning model.](https://github.com/slundberg/shap)
 2. [GitHub - cdpierse/transformers-interpret: Model explainability that works seamlessly with 🤗 transformers. Explain your transformers model in just 2 lines of code.](https://github.com/cdpierse/transformers-interpret)
+3. [GitHub - g8a9/ferret: A python package for benchmarking interpretability techniques.](https://github.com/g8a9/ferret)
 
 ## Publications and Annotations
 
@@ -131,7 +132,6 @@ This is the list of links on Deep Learning that I have collected over time.
 ## Industry Related
 
 1. [GitHub - andrewekhalel/MLQuestions: Machine Learning and Computer Vision Engineer - Technical Interview Questions](https://github.com/andrewekhalel/MLQuestions)
-
 
 ## Contribute
 
