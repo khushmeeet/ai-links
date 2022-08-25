@@ -123,7 +123,10 @@ This is the list of links on Deep Learning that I have collected over time.
 9. [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)
 10. [AMMI Geometric Deep Learning Course - Second Edition (2022) - YouTube](https://www.youtube.com/playlist?app=desktop&list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)
 11. [GitHub - microsoft/AI-For-Beginners: 12 Weeks, 24 Lessons, AI for All!](https://github.com/microsoft/AI-For-Beginners)
-12. ![Courses](./courses.png)
+12. [First Principles of Computer Vision - YouTube](https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw/playlists?app=desktop)
+13. [UNIGE 14x050 – Deep Learning](https://fleuret.org/dlc/#vm)
+14. [Deep Learning Systems](https://dlsyscourse.org/)
+15. ![Courses](./courses.png)
 
 ## MLOps
 
