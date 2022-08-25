@@ -1,7 +1,9 @@
 # ai-links
+
 This is the list of links on Deep Learning that I have collected over time.
 
 ## Resources
+
 1. [An introduction to Generative Adversarial Networks (with code in TensorFlow) - AYLIEN News API](https://aylien.com/blog/introduction-generative-adversarial-networks-code-tensorflow)
 2. [Generative Models](https://openai.com/blog/generative-models/)
 3. [Adverarial Nets](https://cs.stanford.edu/people/karpathy/gan/)
@@ -46,6 +48,7 @@ This is the list of links on Deep Learning that I have collected over time.
 42. [Design Patterns in Machine Learning Code and Systems](https://eugeneyan.com/writing/design-patterns/)
 
 ## Deep Learning Repositories
+
 1. [GitHub - teddykoker/tinyloader](https://github.com/teddykoker/tinyloader)
 2. [GitHub - karpathy/micrograd: A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API](https://github.com/karpathy/micrograd)
 3. [GitHub - Renovamen/flint: A toy deep learning framework implemented in pure Numpy from scratch. Aka homemade PyTorch lol.](https://github.com/Renovamen/flint)
@@ -68,8 +71,8 @@ This is the list of links on Deep Learning that I have collected over time.
 20. [GitHub - kurtispykes/Deep-Learning: Curated articles and code on deep learning topics](https://github.com/kurtispykes/Deep-Learning)
 21. [GitHub - lucidrains/DALLE2-pytorch: Implementation of DALL-E 2, OpenAI’s updated text-to-image synthesis neural network,  in Pytorch](https://github.com/lucidrains/DALLE2-pytorch)
 22. [GitHub - ivan-bilan/The-NLP-Pandect: A comprehensive reference for all topics related to Natural Language Processing](https://github.com/ivan-bilan/The-NLP-Pandect)
-23.  [GitHub - ritchieng/the-incredible-pytorch: The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.](https://github.com/ritchieng/the-incredible-pytorch)
-24.  [GitHub - anantzoid/VQA-Keras-Visual-Question-Answering: Visual Question Answering task written in Keras that answers questions about images](https://github.com/anantzoid/VQA-Keras-Visual-Question-Answering)
+23. [GitHub - ritchieng/the-incredible-pytorch: The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.](https://github.com/ritchieng/the-incredible-pytorch)
+24. [GitHub - anantzoid/VQA-Keras-Visual-Question-Answering: Visual Question Answering task written in Keras that answers questions about images](https://github.com/anantzoid/VQA-Keras-Visual-Question-Answering)
 25. [GitHub - carpedm20/MemN2N-tensorflow: “End-To-End Memory Networks” in Tensorflow](https://github.com/carpedm20/MemN2N-tensorflow)
 26. [GitHub - ryankiros/skip-thoughts: Sent2Vec encoder and training code from the paper “Skip-Thought Vectors”](https://github.com/ryankiros/skip-thoughts)
 27. [GitHub - btcsuite/btcd: An alternative full node bitcoin implementation written in Go (golang)](https://github.com/btcsuite/btcd)
@@ -87,7 +90,13 @@ This is the list of links on Deep Learning that I have collected over time.
 39. [GitHub - CYHSM/awesome-neuro-ai-papers: Papers from the intersection of deep learning and neuroscience](https://github.com/CYHSM/awesome-neuro-ai-papers)
 40. [GitHub - hollance/neural-engine: Everything we actually know about the Apple Neural Engine (ANE)](https://github.com/hollance/neural-engine)
 
+## Interpretability
+
+1. [GitHub - slundberg/shap: A game theoretic approach to explain the output of any machine learning model.](https://github.com/slundberg/shap)
+2. [GitHub - cdpierse/transformers-interpret: Model explainability that works seamlessly with 🤗 transformers. Explain your transformers model in just 2 lines of code.](https://github.com/cdpierse/transformers-interpret)
+
 ## Publications and Annotations
+
 1. [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
 2. [labml.ai Annotated PyTorch Paper Implementations](https://nn.labml.ai)
 3. [explained.ai](https://explained.ai)
@@ -101,6 +110,7 @@ This is the list of links on Deep Learning that I have collected over time.
 11. [Logistic Regression](https://mlu-explain.github.io/logistic-regression/)
 
 ## Courses
+
 1. [Natural Language Processing (NLP) for Semantic Search | Pinecone](https://www.pinecone.io/learn/nlp/)
 2. [Syllabus for Mathematical Background for Machine Learning](https://canvas.cmu.edu/courses/603/assignments/syllabus)
 3. [Linear Algebra | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
@@ -115,11 +125,14 @@ This is the list of links on Deep Learning that I have collected over time.
 12. ![Courses](./courses.png)
 
 ## MLOps
+
 1. [GitHub - dair-ai/MLOPs-Primer: A collection of resources to learn about MLOPs.](https://github.com/dair-ai/MLOPs-Primer)
 
 ## Industry Related
+
 1. [GitHub - andrewekhalel/MLQuestions: Machine Learning and Computer Vision Engineer - Technical Interview Questions](https://github.com/andrewekhalel/MLQuestions)
 
 
 ## Contribute
+
 To add links to this repository that you think are in any of the given category, please raise a PR or an issue will suffice as well.
