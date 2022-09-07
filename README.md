@@ -89,6 +89,7 @@ This is the list of links on Deep Learning that I have collected over time.
 38. [GitHub - Ying1123/awesome-neural-symbolic: A list of awesome neural symbolic papers.](https://github.com/Ying1123/awesome-neural-symbolic)
 39. [GitHub - CYHSM/awesome-neuro-ai-papers: Papers from the intersection of deep learning and neuroscience](https://github.com/CYHSM/awesome-neuro-ai-papers)
 40. [GitHub - hollance/neural-engine: Everything we actually know about the Apple Neural Engine (ANE)](https://github.com/hollance/neural-engine)
+41. [https://github.com/karpathy/minGPT](https://github.com/karpathy/minGPT)
 
 ## Interpretability
 
