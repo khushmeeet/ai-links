@@ -129,7 +129,8 @@ This is the list of links on Deep Learning that I have collected over time.
 14. [Deep Learning Systems](https://dlsyscourse.org/)
 15. [GitHub - karpathy/nn-zero-to-hero: Neural Networks: Zero to Hero](https://github.com/karpathy/nn-zero-to-hero)
 16. [Home - Made With ML](https://madewithml.com/)
-17. ![Courses](./courses.png)
+17. [GitHub - full-stack-deep-learning/fsdl-text-recognizer-2022-labs: Complete deep learning project developed in Full Stack Deep Learning, 2022 edition. Generated automatically from https://github.com/full-stack-deep-learning/fsdl-text-recognizer-2022](https://github.com/full-stack-deep-learning/fsdl-text-recognizer-2022-labs)
+18. ![Courses](./courses.png)
 
 ## MLOps
 
