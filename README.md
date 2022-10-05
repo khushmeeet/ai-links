@@ -90,6 +90,7 @@ This is the list of links on Deep Learning that I have collected over time.
 39. [GitHub - CYHSM/awesome-neuro-ai-papers: Papers from the intersection of deep learning and neuroscience](https://github.com/CYHSM/awesome-neuro-ai-papers)
 40. [GitHub - hollance/neural-engine: Everything we actually know about the Apple Neural Engine (ANE)](https://github.com/hollance/neural-engine)
 41. [https://github.com/karpathy/minGPT](https://github.com/karpathy/minGPT)
+42. [GitHub - NielsRogge/Transformers-Tutorials: This repository contains demos I made with the Transformers library by HuggingFace.](https://github.com/NielsRogge/Transformers-Tutorials)
 
 ## Interpretability
 
