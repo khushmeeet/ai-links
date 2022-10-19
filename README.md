@@ -112,6 +112,7 @@ This is the list of links on Deep Learning that I have collected over time.
 10. [Differentiable Programming from Scratch – Max Slater – Computer Graphics, Programming, and Math](https://thenumb.at/Autodiff/)
 11. [Logistic Regression](https://mlu-explain.github.io/logistic-regression/)
 12. [The Illustrated Stable Diffusion – Jay Alammar – Visualizing machine learning one concept at a time.](https://jalammar.github.io/illustrated-stable-diffusion/)
+13. [CS 221 ― Artificial Intelligence - Cheat Sheets](https://stanford.edu/~shervine/teaching/)
 
 ## Courses
 
