@@ -113,6 +113,7 @@ This is the list of links on Deep Learning that I have collected over time.
 11. [Logistic Regression](https://mlu-explain.github.io/logistic-regression/)
 12. [The Illustrated Stable Diffusion – Jay Alammar – Visualizing machine learning one concept at a time.](https://jalammar.github.io/illustrated-stable-diffusion/)
 13. [CS 221 ― Artificial Intelligence - Cheat Sheets](https://stanford.edu/~shervine/teaching/)
+14. [Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning - PDF](https://www.cis.upenn.edu/~jean/math-deep.pdf)
 
 ## Courses
 
