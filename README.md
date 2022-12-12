@@ -136,7 +136,8 @@ This is the list of links on Deep Learning that I have collected over time.
 17. [GitHub - full-stack-deep-learning/fsdl-text-recognizer-2022-labs: Complete deep learning project developed in Full Stack Deep Learning, 2022 edition. Generated automatically from https://github.com/full-stack-deep-learning/fsdl-text-recognizer-2022](https://github.com/full-stack-deep-learning/fsdl-text-recognizer-2022-labs)
 18. [Cornell CS4780 - Machine Learning for Intelligent Systems](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/)
 19. [“Crash Course” - ML@B Blog Berkeley](https://ml.berkeley.edu/blog/tag/crash-course)
-20. ![Courses](./courses.png)
+20. [Natural Language Processing Demystified](https://www.nlpdemystified.org/)
+21. ![Courses](./courses.png)
 
 ## MLOps
 
