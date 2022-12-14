@@ -137,7 +137,8 @@ This is the list of links on Deep Learning that I have collected over time.
 18. [Cornell CS4780 - Machine Learning for Intelligent Systems](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/)
 19. [“Crash Course” - ML@B Blog Berkeley](https://ml.berkeley.edu/blog/tag/crash-course)
 20. [Natural Language Processing Demystified](https://www.nlpdemystified.org/)
-21. ![Courses](./courses.png)
+21. [Deep Learning Fundamentals - Lightning AI](https://lightning.ai/pages/courses/deep-learning-fundamentals/)
+22. ![Courses](./courses.png)
 
 ## MLOps
 
