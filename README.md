@@ -46,6 +46,7 @@ This is the list of links on Deep Learning that I have collected over time.
 40. [MLExpert | MLExpert - land your dream Machine Learning job](https://mlexpert.io/)
 41. [Cloudera Fast Forward Blog](https://blog.fastforwardlabs.com/)
 42. [Design Patterns in Machine Learning Code and Systems](https://eugeneyan.com/writing/design-patterns/)
+43. [The Illustrated Machine Learning Website](https://illustrated-machine-learning.github.io/index.html)
 
 ## Deep Learning Repositories
 
