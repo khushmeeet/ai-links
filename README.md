@@ -93,6 +93,7 @@ This is the list of links on Deep Learning that I have collected over time.
 42. [GitHub - NielsRogge/Transformers-Tutorials: This repository contains demos I made with the Transformers library by HuggingFace.](https://github.com/NielsRogge/Transformers-Tutorials)
 43. [GitHub - louisfb01/best_AI_papers_2022: A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code.](https://github.com/louisfb01/best_AI_papers_2022)
 44. [GitHub - karpathy/nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs.](https://github.com/karpathy/nanoGPT)
+45. [GitHub - dair-ai/ML-Papers-Explained: Explanation to key concepts in ML](https://github.com/dair-ai/ML-Papers-Explained)
 
 ## Interpretability
 
