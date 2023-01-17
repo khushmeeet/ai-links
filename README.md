@@ -153,6 +153,7 @@ This is the list of links on Deep Learning that I have collected over time.
 ## Industry Related
 
 1. [GitHub - andrewekhalel/MLQuestions: Machine Learning and Computer Vision Engineer - Technical Interview Questions](https://github.com/andrewekhalel/MLQuestions)
+2. [GitHub - BoltzmannEntropy/interviews.ai: It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced researchers will find it fascinating as well.](https://github.com/BoltzmannEntropy/interviews.ai)
 
 ## Contribute
 
