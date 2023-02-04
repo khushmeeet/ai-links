@@ -96,6 +96,7 @@ This is the list of links on Deep Learning that I have collected over time.
 44. [GitHub - karpathy/nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs.](https://github.com/karpathy/nanoGPT)
 45. [GitHub - dair-ai/ML-Papers-Explained: Explanation to key concepts in ML](https://github.com/dair-ai/ML-Papers-Explained)
 46. [GitHub - google-research/tuning_playbook: A playbook for systematically maximizing the performance of deep learning models.](https://github.com/google-research/tuning_playbook)
+47. [GitHub - dair-ai/Transformers-Recipe: 🧠 A study guide to learn about Transformers](https://github.com/dair-ai/Transformers-Recipe)
 
 ## Interpretability
 
