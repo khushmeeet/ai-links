@@ -147,7 +147,9 @@ This is the list of links on Deep Learning that I have collected over time.
 19. [“Crash Course” - ML@B Blog Berkeley](https://ml.berkeley.edu/blog/tag/crash-course)
 20. [Natural Language Processing Demystified](https://www.nlpdemystified.org/)
 21. [Deep Learning Fundamentals - Lightning AI](https://lightning.ai/pages/courses/deep-learning-fundamentals/)
-22. ![Courses](./courses.png)
+22. [TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940)
+23. [GitHub - stas00/ml-engineering: Machine Learning Engineering Online Book](https://github.com/stas00/ml-engineering)
+24. ![Courses](./courses.png)
 
 ## MLOps
 
