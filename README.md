@@ -149,7 +149,8 @@ This is the list of links on Deep Learning that I have collected over time.
 21. [Deep Learning Fundamentals - Lightning AI](https://lightning.ai/pages/courses/deep-learning-fundamentals/)
 22. [TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940)
 23. [GitHub - stas00/ml-engineering: Machine Learning Engineering Online Book](https://github.com/stas00/ml-engineering)
-24. ![Courses](./courses.png)
+24. [UNIGE 14x050 - Deep Learning](https://fleuret.org/dlc/)
+25. ![Courses](./courses.png)
 
 ## MLOps
 
