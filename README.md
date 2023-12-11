@@ -123,6 +123,7 @@ This is the list of links on Deep Learning that I have collected over time.
 13. [CS 221 ― Artificial Intelligence - Cheat Sheets](https://stanford.edu/~shervine/teaching/)
 14. [Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning - PDF](https://www.cis.upenn.edu/~jean/math-deep.pdf)
 15. [GPT in 60 Lines of NumPy | Jay Mody](https://jaykmody.com/blog/gpt-from-scratch/)
+16. [Annotated S4](https://srush.github.io/annotated-s4/)
 
 ## Courses
 
