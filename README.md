@@ -125,6 +125,7 @@ This is the list of links on Deep Learning that I have collected over time.
 15. [GPT in 60 Lines of NumPy | Jay Mody](https://jaykmody.com/blog/gpt-from-scratch/)
 16. [Annotated S4](https://srush.github.io/annotated-s4/)
 17. [Attention, Transformers, in Neural Network Large Language Models](http://bactra.org/notebooks/nn-attention-and-transformers.html)
+18. [Transformer Circuits](https://transformer-circuits.pub/)
 
 ## Courses
 
