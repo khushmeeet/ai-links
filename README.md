@@ -106,7 +106,7 @@ This is the list of links on Deep Learning that I have collected over time.
 4. [A Comprehensive Mechanistic Interpretability Explainer & Glossary - Dynalist](https://dynalist.io/d/n2ZWtnoYHrU1s4vnFSAQ519J)
 5. [GitHub - neelnanda-io/TransformerLens](https://github.com/neelnanda-io/TransformerLens)
 
-## Publications and Annotations
+## Publications, Annotations and Visualizations
 
 1. [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
 2. [labml.ai Annotated PyTorch Paper Implementations](https://nn.labml.ai)
@@ -127,6 +127,7 @@ This is the list of links on Deep Learning that I have collected over time.
 17. [Attention, Transformers, in Neural Network Large Language Models](http://bactra.org/notebooks/nn-attention-and-transformers.html)
 18. [Transformer Circuits](https://transformer-circuits.pub/)
 19. [Transformers from Scratch](https://blog.matdmiller.com/posts/2023-06-10_transformers/notebook.html)
+20. [OpenAI Microscope](https://microscope.openai.com/models)
 
 ## Courses
 
