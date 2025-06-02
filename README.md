@@ -160,6 +160,7 @@ This is the list of links on Deep Learning that I have collected over time.
 22. [TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940)
 23. [GitHub - stas00/ml-engineering: Machine Learning Engineering Online Book](https://github.com/stas00/ml-engineering)
 25. ![Courses](./courses.png)
+26. [Interactive Tools for machine learning, deep learning, and math](https://github.com/Machine-Learning-Tokyo/Interactive_Tools)
 
 ## MLOps
 
