@@ -133,6 +133,7 @@ This is the list of links on Deep Learning that I have collected over time.
 23. [The Illustrated AlphaFold](https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/)
 24. [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
 25. [LLM Visualization](https://bbycroft.net/llm)
+26. [Interactive Tools for machine learning, deep learning, and math](https://github.com/Machine-Learning-Tokyo/Interactive_Tools)
 
 ## Courses
 
@@ -160,7 +161,6 @@ This is the list of links on Deep Learning that I have collected over time.
 22. [TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940)
 23. [GitHub - stas00/ml-engineering: Machine Learning Engineering Online Book](https://github.com/stas00/ml-engineering)
 25. ![Courses](./courses.png)
-26. [Interactive Tools for machine learning, deep learning, and math](https://github.com/Machine-Learning-Tokyo/Interactive_Tools)
 
 ## MLOps
 
