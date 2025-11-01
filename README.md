@@ -134,6 +134,7 @@ This is the list of links on Deep Learning that I have collected over time.
 24. [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
 25. [LLM Visualization](https://bbycroft.net/llm)
 26. [Interactive Tools for machine learning, deep learning, and math](https://github.com/Machine-Learning-Tokyo/Interactive_Tools)
+27. [Smol Training Playbook](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook#introduction)
 
 ## Courses
 
